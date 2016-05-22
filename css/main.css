@@ -13,3 +13,14 @@
 .skills {
   max-width: 1000px;
 }
+
+/* Progress map table */
+
+.path-container {
+  border: 1px solid #cdcdcd;
+  border-radius: 4px;
+  margin: 25px 0;
+  padding: 24px;
+  padding-top: 0;
+
+}
